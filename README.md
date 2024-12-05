@@ -33,5 +33,4 @@ Let's connect and discuss how I can contribute to the success of your next proje
 
 ## Git Overview
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansahibzada&show_icons=true&locale=en" alt="farhansahibzada" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansahibzada&show_icons=true" alt="farhansahibzada" />
