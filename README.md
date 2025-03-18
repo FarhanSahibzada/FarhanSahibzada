@@ -7,7 +7,7 @@ With a passion for creating seamless user experiences, I've successfully worked 
 Let's connect and discuss how I can contribute to the success of your next project!
 
 ## More Details
-- 🌱 I’m currently learning **Express JS And Mongodb From SMIT.**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [Here!](https://github.com/FarhanSahibzada)
 
