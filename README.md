@@ -1,21 +1,23 @@
 #  Farhan Sahibzada (farhansahibzada)
 
-Hi, I'm Farhan, a dedicated Web and Mobile Developer with 1.5 years of hands-on experience. I specialize in building dynamic, scalable applications using React, React Native, Redux, Next.js, TypeScript, JavaScript, Firebase, Appwrite, Mongoose, Express, and MongoDB.
+Hi, I'm Farhan, a dedicated Full-Stack Developer with 3 years of hands-on experience. Designing Scalable Systems with Next.js, Node.js & NestJS , Clean Architecture & Monolith & Microservices , AWS Cloud and Actively Contributing Open Source 
+Projects.
 
 With a passion for creating seamless user experiences, I've successfully worked on diverse projects, bringing innovative solutions to life. Whether it's developing complex front-end interfaces or robust back-end systems, I'm committed to helping your ideas thrive.
 
 Let's connect and discuss how I can contribute to the success of your next project!
 
 ## More Details
-- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [Here!](https://github.com/FarhanSahibzada)
 
-- 💬 Ask me about **javascript , Typescript**
+- 💬 Ask me about **Nestjs , AWS , CICD , Typescript**
 
 - 📫 How to reach me **farhansahabzada3@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny,**
+- 📄 Know about my experiences (Here!)[https://drive.google.com/file/d/1GeG3I9sYM5uFn3LPiY260GQ5R580DheN/view?usp=sharing]
+
+
 
 
 
